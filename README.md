@@ -1,7 +1,11 @@
-SuperSID
+SuperSID_PICO
 ========
 
-Cross-platform Sudden Ionospheric Disturbances (SID) monitor
+Forked from [ericgibert/supersid](https://www.ti.com/product/TLE2426#tech-docshub).
+
+Cross-platform Sudden Ionospheric Disturbances (SID) monitor, with modifications to use the RP2040 Pico as a data collector after the SuperSID receiver.
+
+*Everything below here is original to ericgibert and has not been modified, yet.*
 
 Objectives
 ----------
